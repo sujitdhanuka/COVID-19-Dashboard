@@ -124,7 +124,7 @@ valueBox(value = paste(format(sum(df$death, na.rm = TRUE), big.mark = ","), " ("
          color = death_color)
 ```
 
-### last_3days{.value-box}
+### last_3days {.value-box}
 
 ```{r}
 daily_confirmed <- coronavirus %>%
@@ -515,7 +515,7 @@ data_filtered <-  reactive({
 
 
 
-### indConfirmed{.value-box}
+### indConfirmed {.value-box}
 
 ```{r}
 renderValueBox(
