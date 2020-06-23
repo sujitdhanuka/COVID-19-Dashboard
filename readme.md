@@ -1,6 +1,6 @@
 ## Introduction
 
-This Coronavirus dashboard, an extesion of dashboard developed by RamiKrispin [source](https://github.com/RamiKrispin/coronavirus_dashboard) provides an overview of the 2019 Novel Coronavirus COVID-19 (2019-nCoV) pandemic. This dashboard is built with R using the Rmakrdown framework and can easily be reproduced by others.
+This Coronavirus dashboard, an extesion of dashboard developed by RamiKrispin [source](https://github.com/RamiKrispin/coronavirus_dashboard) provides an overview of the 2019 Novel Coronavirus COVID-19 (2019-nCoV) pandemic. This dashboard is built with R using the Rmarkdown framework and can easily be reproduced by others.
 
 ## Data Source
 
